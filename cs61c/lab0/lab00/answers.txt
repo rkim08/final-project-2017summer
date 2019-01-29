@@ -1,0 +1,17 @@
+Move files from one directory to the next
+Command[mv file destination]
+Change a file's permissions
+Command[chmod]
+Show the directory you're currently in
+Command[pwd]
+Check if a host is online
+Check https://www.ocf.berkeley.edu/~hkn/hivemind/
+
+Which command walks a file hierarchy in search of a keyword?
+Command[find]
+Which command displays information about processes running on your machine?
+Command[top]
+Which command terminates a process?
+Command[exit]
+Which command can help you find the difference between two files?
+Command[interdiff]
